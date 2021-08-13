@@ -42,4 +42,4 @@ while i<len(list):
             break    
         i +=1
 
-#Saral questions *Koun Banega Codepati(KBC) Using 5050 lifeline*❤️😊😘🥰
+#Saral questions *Koun Banega Codepati(KBC) Using 5050 lifeline*
